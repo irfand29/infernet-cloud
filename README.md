@@ -1,6 +1,6 @@
-# Infernet Cloud
+# 🌐 Infernet Cloud
 
-**Infernet Cloud** is an open-source, self-hostable UI for configuring, deploying and monitoring [Infernet Node](https://github.com/ritual-net/infernet-node) clusters using major cloud hosting providers. Currently, [Amazon Web Services](https://aws.amazon.com) (AWS) and [Google Cloud Platform](https://cloud.google.com) (GCP) are supported.
+** Infernet Cloud** is an open-source, self-hostable UI for configuring, deploying and monitoring [Infernet Node](https://github.com/ritual-net/infernet-node) clusters using major cloud hosting providers. Currently, [Amazon Web Services](https://aws.amazon.com) (AWS) and [Google Cloud Platform](https://cloud.google.com) (GCP) are supported.
 
 You can use Infernet Cloud to:
 
@@ -16,7 +16,7 @@ Under the hood, Infernet Cloud uses:
 * [SvelteKit](https://svelte.dev) for the UI layer and server functionality
 
 
-## Table of contents
+##  📖 Table of contents
 
 * **[Local setup](#local-setup)**
 	* ["Localhost" mode](#localhost-mode)
@@ -36,7 +36,7 @@ Under the hood, Infernet Cloud uses:
 	7. [Monitor and manage nodes](#7-monitor-and-manage-nodes)
 
 
-## Local setup
+## 🖥️ Local setup
 
 ### "Localhost" mode
 
@@ -180,7 +180,7 @@ To access the Infernet Cloud UI from a different machine, you will need to set u
 
 ---
 
-### Development scripts (local setup)
+### 🛠️ Development scripts (local setup)
 
 #### Server
 
@@ -232,7 +232,7 @@ To access the Infernet Cloud UI from a different machine, you will need to set u
 Find more commands and their definitions in the `scripts` section of [`package.json`](package.json).
 
 
-## Docker Compose setup
+## 📦 Docker Compose setup
 
 1. Install [Docker Compose](https://docs.docker.com/compose/install).
 
@@ -322,7 +322,7 @@ Find more commands and their definitions in the `scripts` section of [`package.j
 
 ---
 
-### Development scripts (Docker Compose setup)
+### 🛠️ Development scripts (Docker Compose setup)
 
 #### Docker Compose
 
@@ -393,7 +393,7 @@ Find more commands and their definitions in the `scripts` section of [`package.j
 Find more commands and their definitions in the `scripts` section of [`package.json`](package.json).
 
 
-## Using Infernet Cloud
+## 🚀 Using Infernet Cloud
 
 ### 1. Create an account
 
